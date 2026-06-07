@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Afrasiab Khan
 
-**A passionate Computer Science Student || AI Agent Builder || Automation & Web Development Enthusiast from Pakistan**
+**A passionate Computer Science Student || AI Agent Builder || Automation Enthusiast from Pakistan**
 
 Email Me 👉 ✉️ afrasiaba785@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 * 🔭 **I’m currently working on:** AI Agent Workflows with n8n, Automation Systems, and Web Development Projects
-* 🌱 **I’m currently learning:** AI Agents, Python, JavaScript, Web Development, and Software Engineering
+* 🌱 **I’m currently learning:** AI Agents, Python, C++ and Software Engineering
 * 👯 **I’m looking to collaborate on:** AI, Automation, Open Source, and Web Development Projects
 * 🤔 **I’m looking for help with:** Advanced AI Agent Development, Machine Learning, and Robotics
-* 💬 **Ask me about:** AI Agents, n8n, Automation, Web Development, and Computer Science
+* 💬 **Ask me about:** AI Agents, n8n, Automation, and Computer Science
 * 📫 **How to reach me: afrasiaba785@gmail.com
 * 😄 **Pronouns:** He/Him
 * ⚡ **Fun fact:** I enjoy building AI-powered automations and turning ideas into real projects
